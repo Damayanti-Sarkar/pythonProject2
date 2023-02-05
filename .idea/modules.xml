@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python chat bot/.idea/python chat bot.iml" filepath="$PROJECT_DIR$/../python chat bot/.idea/python chat bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonPrject exam/.idea/pythonPrject exam.iml" filepath="$PROJECT_DIR$/../pythonPrject exam/.idea/pythonPrject exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/.idea/pythonProject2.iml" />
+    </modules>
+  </component>
+</project>
